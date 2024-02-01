@@ -1,2 +1,2 @@
 ## results_checker
-Checking my results with Selenium
+Checking my course results with Selenium
