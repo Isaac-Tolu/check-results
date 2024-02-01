@@ -78,3 +78,7 @@ def get_result(driver:WebDriver, course_name:str) -> 'dict|None':
 
 if __name__ == '__main__':
     main()
+
+
+# TODO: Pretty print what I have on the terminal
+# TODO: Ways to make the current code better
